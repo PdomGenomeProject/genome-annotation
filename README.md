@@ -1,6 +1,6 @@
 # Genome annotation
 
-This data set is part of the [*Polistes dominula* genome project][pdomproj], and details the annotation of protein coding genes and tRNA genes in the *P. dominula* genome, as described in (Standage *et al.*, manuscript in preparation).
+This data set is part of the [*Polistes dominula* genome project][pdomproj], and details the annotation of protein coding genes and tRNA genes in the *P. dominula* genome, as described in ([Standage *et al.*, *Molecular Ecology*, 2016][ref]).
 Included in this data set are the annotations (gene models in GFF3 format), gene model translations (peptide sequences in Fasta format), and documentation providing complete disclosure of the annotation workflow.
 
 ## Synopsis
@@ -111,5 +111,6 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 
 [pdomproj]: https://github.com/PdomGenomeProject
+[ref]: http://dx.doi.org/10.1111/mec.13578
 [Maker annotation pipeline]: http://www.yandell-lab.org/software/maker.html
 [ccby4]: http://creativecommons.org/licenses/by/4.0/
